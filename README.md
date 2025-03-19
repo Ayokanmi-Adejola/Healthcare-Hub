@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://ayokanmi-adejola-healthcare-hub.netlify.app/login
+**URL**: https://ayokanmi-adejola-healthcare-hub.netlify.app
 
 **Use your preferred IDE**
 
