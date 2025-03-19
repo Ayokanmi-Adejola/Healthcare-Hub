@@ -43,9 +43,9 @@ export default function LoginForm() {
           />
         </div>
         <div className="max-w-xl mx-auto relative z-10">
-          <h1 className="text-4xl font-bold text-medical-700 mb-4">AI-Powered Healthcare</h1>
+          <h1 className="text-4xl font-bold text-medical-700 mb-4">HealthcareHub</h1>
           <p className="text-medical-600 mb-12">
-            Advanced disease prediction and treatment recommendations powered by blockchain technology
+          Advanced predictive and preventative disease analysis with tailored treatment recommendations by Ayokanmi Adejola...
           </p>
 
           <div className="space-y-8">
@@ -54,7 +54,7 @@ export default function LoginForm() {
                 <Brain className="h-6 w-6 text-medical-500" />
               </div>
               <div>
-                <h3 className="font-semibold text-medical-700 mb-1">AI Diagnosis</h3>
+                <h3 className="font-semibold text-medical-700 mb-1">Digital Diagnosis</h3>
                 <p className="text-medical-600">Advanced symptom analysis and disease prediction</p>
               </div>
             </div>
